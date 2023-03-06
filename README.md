@@ -14,6 +14,7 @@ Their [image API](https://platform.openai.com/docs/api-reference/images) offers 
 
 The **dalle** function is asking for user input to specify the **prompt** and the **amount** of images. <br>
 I've currently hard coded the highest possible image size (1024x1024) and I'm using the base64 format for the file generation. <br>
-Example image: <br>
+<br>
+**Example image, generated via the function:** <br>
 ![OpenAi_image_API](/images/dalle_example.png)
 
